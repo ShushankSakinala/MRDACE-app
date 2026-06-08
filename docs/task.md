@@ -1,0 +1,3 @@
+- [x] Project Organization
+    - [x] Consolidate code and documentation into `MRDACE` folder
+    - [x] Create project structure with `backend`, `frontend`, and `docs`

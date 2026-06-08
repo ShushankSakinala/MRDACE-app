@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.local
+uploads/
+system_keys.json
+mrdace.db
